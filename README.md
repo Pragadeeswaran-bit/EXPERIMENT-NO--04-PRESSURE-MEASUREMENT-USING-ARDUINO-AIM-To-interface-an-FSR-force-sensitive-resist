@@ -109,19 +109,7 @@ digitalWrite(LED,LOW);
 }
 }
 ~~~
- 
- 
- ![WhatsApp Image 2024-03-04 at 22 34 47_4abc4949](https://github.com/Pragadeeswaran-bit/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/147473828/9c554b8a-5407-4569-a065-377a44a004ec)
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  
  
 
  
@@ -144,8 +132,6 @@ For those unfamiliar with summation notation, the equation above may seem daunti
 EX:           μ = (1+3+4+7+8) / 5 = 4.6        
 σ = √[(1 - 4.6)2 + (3 - 4.6)2 + ... + (8 - 4.6)2)]/5
 σ = √(12.96 + 2.56 + 0.36 + 5.76 + 11.56)/5 = 2.577
-
-
 
 
 
